@@ -66,3 +66,4 @@ package-lock.json
 .idea/vcs.xml
 .idea/workspace.xml
 keys/*
+server.log
