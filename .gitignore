@@ -67,3 +67,5 @@ package-lock.json
 .idea/workspace.xml
 keys/*
 server.log
+*.xml
+*.iml
